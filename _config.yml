@@ -32,16 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
-    # duoshuo: 
-    
+    disqus: Alice-H
+    # duoshuo:
+
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    # weibo: onevcat
+    github: Alice-H
+    # twitter: onevcat
+    # gplus: 107108267983477358170
+    # mail: onev@onevcat.com
 
 # Google Analytics
 ga:

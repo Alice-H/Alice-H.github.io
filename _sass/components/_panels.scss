@@ -159,6 +159,10 @@
   @include linear-gradient(140deg, rgba($slate,.6) 20%, rgba(darken($slate, 20%),.8));
 }
 
+.cover-tiffany {
+  @include linear-gradient(140deg, rgba($tiffany,.2) 20%, rgba(darken($tiffany, 20%),.2));
+}
+
 .cover-disabled {
   background: none;
 }

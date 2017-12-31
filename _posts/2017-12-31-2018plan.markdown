@@ -1,0 +1,30 @@
+---
+layout: post
+title: 2018 上半年度計畫
+date: 2017-12-31 00:00:00.000000000 +08:00
+tag: plan
+---
+last updated：2017-12-31
+
+JS, Vue finished
+
+Target：
+<ul>
+<li>Toeic 750</li>
+<li>做出一個金流網站</li>
+<li>leetcode解60題</li>
+<li>JS practice push to GitHub everyday</li>
+<li>VUE practice push to GitHub everyday</li>
+<li>UI/UX</li>
+</ul>
+
+一月份書單：
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
